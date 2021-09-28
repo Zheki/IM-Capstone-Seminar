@@ -12,3 +12,8 @@ by a video game from the 1980, Battlezone Atari, as shown in the picture:
 
 
 I will be using similar graphics to create a representation of how a room would look like through the lens of my project.
+
+Regarding processing power, the simpler graphics would allow for a much more stable and high refresh rate visualization of the data, using relatively weaker and simpler technologies. Point clouds made from LiDAR scans can be difficult to process due to large amounts of stored data.
+
+![](cloud.jpg)
+*Image is not my property.
