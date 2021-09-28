@@ -9,3 +9,6 @@ by a video game from the 1980, Battlezone Atari, as shown in the picture:
 
 ![](battlezone.jpg)
 *Image is not my property.
+
+
+I will be using similar graphics to create a representation of how a room would look like through the lens of my project.
