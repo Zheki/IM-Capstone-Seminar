@@ -7,4 +7,4 @@ Another topic of discussion how to visualize the data from the sensors with high
 I am currently working on image editing, to create images that will accurately represent a user's point of view in a closed environment. The form of visual representation was inspired 
 by a video game from the 1980, Battlezone Atari, as shown in the picture:
 
-![](battlezone.png)
+![](battlezone.jpg)
