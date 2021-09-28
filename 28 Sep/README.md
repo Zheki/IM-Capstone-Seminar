@@ -8,3 +8,4 @@ I am currently working on image editing, to create images that will accurately r
 by a video game from the 1980, Battlezone Atari, as shown in the picture:
 
 ![](battlezone.jpg)
+*Image is not my property.
