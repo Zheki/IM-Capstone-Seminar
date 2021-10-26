@@ -4,10 +4,13 @@ Initially, when I started brainstorming ideas for my capstone project, I intenti
 I intended to complete these three steps throughout the course of the two semesters, however, being in New York made it difficult to focus on the production and development of the specific technologies, since I do not have access to any of the materials or tools needed for that. However, this gave me the opportunity to dive deeper into the research needed for the project and inspired me to change the structure of the development process. Currently, I am working on digital prototyping research of already available technologies on the market that would significantly improve my project. I am also working on my programming skills to successfully develop a well-constructed augmented reality environment. One of the most important aspects for further development is planning in detail for the production that I need to work on during the upcoming semester. To successfully achieve this, I am constantly communicating with my capstone and major advisors, carefully planning out working with specific programs, materials, and learning which tools and spaces are available to me for the production.
 Although the planning is still in progress, I am constantly refining and updating the project’s concept. I believe that finalizing the plan and idea before the end of the current semester will allow for a smooth transition into the production process in the spring semester. The extended planning time has allowed me to make great progress towards making sure that the difficult aspects of the project are achievable. For example, one of my greatest concerns was the functionality of the lidar scanner. Most of the devices available are only compatible with two-dimensional scans. However, since my project requires three-dimensional scanning, with careful prototyping and research I was able to figure out a way to convert two-dimensional into three-dimensional scanners.
 Also, due to the communication with my mentors, I was able to find backup plans in case I fail to develop the above-mentioned part. For example, if I am unable to create a three-dimensional scanner due to a lack of materials or tools, my mentor advised me to use an alternative such as the Cygbot CygLiDAR D1 sensor, which is affordable and relatively simple to use. Throughout the course of this semester, I intend to create backup plans for any part of my project which might fail during the production phase. I am very excited to see how the planning phase is going to develop over the next couple of weeks and to hear the feedback which I will receive during my upcoming presentation.
-![](2D.png)
+
 ### Representation of 2 dimensional view of the lidar scanner
-![](3D.png)
+![](2D.PNG)
+
 ### Representation of 3 dimensional view of the lidar scanner
+![](3D.PNG)
+
 
 
 *Images are taken from the CygLiDAR D1 User Manual*
