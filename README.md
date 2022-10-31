@@ -1,4 +1,4 @@
-# Artist Bio
+#Bio
 
 Željko Nenadić is a fourth-year Interactive Media student at NYU Abu Dhabi. His work revolves around the areas of technology design, programming, and engineering. Throughout his time as an undergraduate student, he has created multiple projects with the goal of automating long and complex tasks with the help of simple technology.
 
